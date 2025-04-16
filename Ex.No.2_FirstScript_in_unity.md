@@ -44,5 +44,6 @@ public class FirstScript : MonoBehaviour
 
 
 ### Result:
-Thus the unity installation was completed sucessfully.
+Thus the basic scripting in Unity and printing welcome message in Console window is successfully executed. 
+
 
