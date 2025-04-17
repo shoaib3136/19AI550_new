@@ -14,11 +14,11 @@ To write a program to simulate the process of jumping in Unity.
 7. Add a Rigidbody to the Player
 8. With the Player selected: Inspector → Add Component → Rigidbody
 9. Set Constraints > Freeze Rotation X, Z (optional for stability)
-10.Create the Jump Script and Apply the Script Player
-11.Run the game
-12.Press Play
-13.Press Spacebar to jump
-14.Your cube should only jump when touching the ground
+10. Create the Jump Script and Apply the Script Player
+11. Run the game
+12. Press Play
+13. Press Spacebar to jump
+14. Your cube should only jump when touching the ground
 
 ### Program:
 ```
